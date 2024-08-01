@@ -1,4 +1,5 @@
 Kaizen Case Study
+
 Welcome to the Kaizen Case Study project! This repository contains a C# console application designed to perform two primary tasks: campaign code generation and verification, and JSON file processing to extract and format receipt information. Whether you're preparing for an interview or just exploring some cool C# functionality, this project has got you covered.
 
 Features
