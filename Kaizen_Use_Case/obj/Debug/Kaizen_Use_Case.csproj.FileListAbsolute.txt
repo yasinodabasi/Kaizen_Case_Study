@@ -1,0 +1,10 @@
+C:\Users\yasin.odabasi\Desktop\Yasin\Kaizen_Use_Case\Kaizen_Use_Case\obj\Debug\Kaizen_Use_Case.csproj.AssemblyReference.cache
+C:\Users\yasin.odabasi\Desktop\Yasin\Kaizen_Use_Case\Kaizen_Use_Case\obj\Debug\Kaizen_Use_Case.csproj.CoreCompileInputs.cache
+C:\Users\yasin.odabasi\Desktop\Yasin\Kaizen_Use_Case\Kaizen_Use_Case\bin\Debug\Kaizen_Use_Case.exe.config
+C:\Users\yasin.odabasi\Desktop\Yasin\Kaizen_Use_Case\Kaizen_Use_Case\bin\Debug\Kaizen_Use_Case.exe
+C:\Users\yasin.odabasi\Desktop\Yasin\Kaizen_Use_Case\Kaizen_Use_Case\bin\Debug\Kaizen_Use_Case.pdb
+C:\Users\yasin.odabasi\Desktop\Yasin\Kaizen_Use_Case\Kaizen_Use_Case\obj\Debug\Kaizen_Use_Case.exe
+C:\Users\yasin.odabasi\Desktop\Yasin\Kaizen_Use_Case\Kaizen_Use_Case\obj\Debug\Kaizen_Use_Case.pdb
+C:\Users\yasin.odabasi\Desktop\Yasin\Kaizen_Use_Case\Kaizen_Use_Case\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yasin.odabasi\Desktop\Yasin\Kaizen_Use_Case\Kaizen_Use_Case\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yasin.odabasi\Desktop\Yasin\Kaizen_Use_Case\Kaizen_Use_Case\obj\Debug\Kaizen_Use_Case.csproj.CopyComplete
