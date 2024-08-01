@@ -8,9 +8,9 @@ JSON File Processing: Read JSON files and process receipt information for displa
 Getting Started
 Prerequisites
 Before you begin, make sure you have the following installed on your machine:
-
 .NET 5 SDK or later
 
+*************************************************************************************************
 Installation
 
 Clone the repository: git clone https://github.com/yasinodabasi/Kaizen_Case_Study.git
@@ -18,7 +18,7 @@ Clone the repository: git clone https://github.com/yasinodabasi/Kaizen_Case_Stud
 Open your terminal or command prompt and run: cd Kaizen_Case_Study
 
 Run the application: dotnet run
-
+************************************************************************************************
 Usage
 
 When you run the application, you'll be greeted with a simple menu that lets you choose between the two main functionalities.
@@ -31,3 +31,23 @@ Receipt JSON File Processor:
 
 Select a JSON file from your system containing receipt information.
 The application will process and print the receipt lines in the desired format.
+************************************************************************************************
+Example Usage
+
+Campaign Code Verification
+Run the application.
+Choose the option for campaign code verification.
+Enter an 8-character code.
+The application will tell you if the code is valid or not.
+Receipt JSON File Processing
+Run the application.
+Choose the option to process a JSON file.
+Select your JSON file when prompted.
+The processed receipt information will be displayed.
+Project Structure
+Here's a quick rundown of the key files in this repository:
+
+Program.cs: The main entry point of the application.
+CodeGenerator.cs: Contains the logic for generating and verifying campaign codes.
+ReceiptScanner.cs: Handles the processing of receipt JSON files.
+Line.cs: A class representing a line in the receipt.
