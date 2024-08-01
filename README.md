@@ -35,19 +35,36 @@ The application will process and print the receipt lines in the desired format.
 Example Usage
 
 Campaign Code Verification
+
 Run the application.
+
 Choose the option for campaign code verification.
+
 Enter an 8-character code.
+
 The application will tell you if the code is valid or not.
+
 Receipt JSON File Processing
+
 Run the application.
+
 Choose the option to process a JSON file.
+
 Select your JSON file when prompted.
+
 The processed receipt information will be displayed.
+
 Project Structure
+
 Here's a quick rundown of the key files in this repository:
 
 Program.cs: The main entry point of the application.
+
 CodeGenerator.cs: Contains the logic for generating and verifying campaign codes.
+
 ReceiptScanner.cs: Handles the processing of receipt JSON files.
+
 Line.cs: A class representing a line in the receipt.
+
+Contact
+If you have any questions or need further assistance, don't hesitate to contact me at yasnodabasi@gmail.com
